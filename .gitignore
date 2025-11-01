@@ -1,0 +1,71 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Vite / build
+dist/
+.build/
+.vite/
+out/
+coverage/
+.nyc_output/
+
+# Env files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc caches
+.cache/
+.parcel-cache/
+.pnp.*
+
+# Storybook / local
+.storybook/
+
+# generated assets
+public/build/
+
+# Lock files (optional)
+.pnpm-debug.log
+
+# Local history
+.history/
+
+# Certificates
+*.pem
+
+# Windows
+desktop.ini
+
+# JetBrains
+*.iml
+
+# Test artifacts
+coverage/
+
+# Recommended
+.DS_Store
+node_modules/
+dist/
+.env
+.vscode/
+.idea/
